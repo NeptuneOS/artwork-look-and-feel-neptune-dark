@@ -1,0 +1,24 @@
+artwork-lookandfeel-neptune-classic (1.3) unstable; urgency=medium
+
+  * New preview image
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 18 Jun 2017 19:40:22 +0200
+
+artwork-lookandfeel-neptune-classic (1.2) unstable; urgency=medium
+
+  * Correct Plugin Name and Name
+  * Use thunderbird instead of icedove
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 18 Jun 2017 17:46:07 +0200
+
+artwork-lookandfeel-neptune-classic (1.1) unstable; urgency=medium
+
+  * Use QtCurve as default widget theme
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 18 Jun 2017 15:37:33 +0200
+
+artwork-lookandfeel-neptune-classic (1.0) unstable; urgency=medium
+
+  * Initial release
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 18 Jun 2017 14:19:09 +0200
