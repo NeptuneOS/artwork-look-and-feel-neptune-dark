@@ -1,0 +1,39 @@
+[kdeglobals][KDE]
+widgetStyle=qtcurve
+
+[kdeglobals][General]
+ColorScheme=Breeze Dark
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=Droid Sans Mono,13,-1,5,50,0,0,0,0,0
+font=Exo 2.0,10,-1,5,50,0,0,0,0,0
+menuFont=Exo 2.0,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=Exo 2.0,9,-1,5,50,0,0,0,0,0
+toolBarFont=Exo 2.0,9,-1,5,50,0,0,0,0,0
+
+[kdeglobals][Icons]
+Theme=Faenza-Dark
+
+[plasmarc][Theme]
+name=breeze-dark
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+BorderSize=Normal
+ButtonsOnLeft=MS
+ButtonsOnRight=HIAX
+CloseOnDoubleClickOnMenu=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Breezemite_dark
+
+[Desktop][org.kde.plasma.desktop]
+Containment=org.kde.plasma.folder
